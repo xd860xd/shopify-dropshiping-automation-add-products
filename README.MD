@@ -1,6 +1,7 @@
 # Shopify Dropshipping Automation Tool for AliExpress Products
 
 This tool automates the process of adding new products from AliExpress into a Shopify store.
+Tutorial: https://youtu.be/YOE2hwpPWLY?feature=shared
 
 ## Usage:
 
